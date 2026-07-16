@@ -1,0 +1,25 @@
+# Databases
+*.db
+*.db-journal
+
+# Environment Secrets
+.env
+.env.local
+
+# Node.js dependencies & builds
+node_modules/
+dist/
+.vite/
+
+# Go files
+/bin/
+/app/
+
+# Editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
