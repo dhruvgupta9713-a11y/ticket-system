@@ -38,7 +38,7 @@ go.mod / go.sum            # Dependencies configuration
 
 The application is configured using environment variables. You can specify them in the shell or place them inside a `.env` file in the project root directory.
 
-Refer to [.env.example](file:///c:/Users/Asus/OneDrive/Desktop/Backend%20intern%20Assignment/.env.example) for placeholder values:
+Refer to [.env.example](.env.example) for placeholder values:
 - `PORT`: The port the service runs on (defaults to `8080`).
 - `JWT_SECRET`: Secret string used for signing and verifying JSON Web Tokens.
 - `DB_PATH`: SQLite database file path (defaults to `tickets.db`).
